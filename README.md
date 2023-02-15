@@ -1,2 +1,2 @@
-newSASS
+ScssIntro
  # Hey, I linked them!
